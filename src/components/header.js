@@ -10,7 +10,7 @@ function Header() {
 						<a
 							target="_blank"
 							className="right white-text git_hub"
-							href="https://github.com/IuliiaVerevkina" rel="noreferrer"
+							href="https://github.com/IuliiaVerevkina/showCase/" rel="noreferrer"
 						>
 							<i className="material-icons">perm_identity</i>
 							GitHub
